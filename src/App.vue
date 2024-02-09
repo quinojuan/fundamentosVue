@@ -59,10 +59,5 @@ const bloqAdd = computed(() => {
 </template>
 
 <style>
-.rojo {
-  color: red;
-}
-.verde {
-  color: greenyellow;
-}
+
 </style>
